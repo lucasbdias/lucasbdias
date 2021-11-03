@@ -1,5 +1,7 @@
 ## Aoba Mundo! Bão?
 
+  <img align="right" height="100" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+
   Sou o Lucas, tenho 19 anos.
   
   Desenvolvedor Full Stack | [iClouds](https://github.com/iClouds-Sistemas-Web) ☁️.
