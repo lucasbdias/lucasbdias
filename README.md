@@ -2,9 +2,9 @@
 
   Sou o Lucas, tenho 19 anos.
   
-  Desenvolvedor Full Stack na [iClouds](https://github.com/iClouds-Sistemas-Web) ☁️.
+  Desenvolvedor Full Stack | [iClouds](https://github.com/iClouds-Sistemas-Web) ☁️.
   
-  Estudante de Desenvolvimento de Sfotware Multiplataforma 📚.
+  Estudante de Desenvolvimento de Software Multiplataforma | [Fatec](https://fatecsjc-prd.azurewebsites.net/) 📚.
   
   [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Braz-2777b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-braz-dias/)](https://www.linkedin.com/in/lucas-braz-dias/) 
   [![Gmail Badge](https://img.shields.io/badge/-lucasbrzdias@gmail.com-ac3d32?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbrzdias@gmail.com)](mailto:lucasbrzdias@gmail.com)
